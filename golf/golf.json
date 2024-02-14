@@ -1,0 +1,182 @@
+[
+  {
+        "hole_number": 1,
+        "par": 4,
+        "location": "Front",
+        "distances": {
+          "red_tees": 320,
+          "blue_tees": 360,
+          "black_tees": 400
+        }
+      },
+      {
+        "hole_number": 2,
+        "par": 3,
+        "location": "Front",
+        "distances": {
+          "red_tees": 150,
+          "blue_tees": 180,
+          "black_tees": 210
+        }
+      },
+      {
+        "hole_number": 3,
+        "par": 5,
+        "location": "Front",
+        "distances": {
+          "red_tees": 480,
+          "blue_tees": 520,
+          "black_tees": 560
+        }
+      },
+      {
+        "hole_number": 4,
+        "par": 4,
+        "location": "Front",
+        "distances": {
+          "red_tees": 340,
+          "blue_tees": 380,
+          "black_tees": 420
+        }
+      },
+      {
+        "hole_number": 5,
+        "par": 3,
+        "location": "Front",
+        "distances": {
+          "red_tees": 160,
+          "blue_tees": 190,
+          "black_tees": 220
+        }
+      },
+      {
+        "hole_number": 6,
+        "par": 4,
+        "location": "Front",
+        "distances": {
+          "red_tees": 400,
+          "blue_tees": 440,
+          "black_tees": 480
+        }
+      },
+      {
+        "hole_number": 7,
+        "par": 5,
+        "location": "Front",
+        "distances": {
+          "red_tees": 520,
+          "blue_tees": 560,
+          "black_tees": 600
+        }
+      },
+      {
+        "hole_number": 8,
+        "par": 3,
+        "location": "Front",
+        "distances": {
+          "red_tees": 180,
+          "blue_tees": 210,
+          "black_tees": 240
+        }
+      },
+      {
+        "hole_number": 9,
+        "par": 4,
+        "location": "Front",
+        "distances": {
+          "red_tees": 360,
+          "blue_tees": 400,
+          "black_tees": 440
+        }
+      },
+      {
+        "hole_number": 10,
+        "par": 4,
+        "location": "Back",
+        "distances": {
+          "red_tees": 340,
+          "blue_tees": 380,
+          "black_tees": 420
+        }
+      },
+      {
+        "hole_number": 11,
+        "par": 3,
+        "location": "Back",
+        "distances": {
+          "red_tees": 160,
+          "blue_tees": 190,
+          "black_tees": 220
+        }
+      },
+      {
+        "hole_number": 12,
+        "par": 5,
+        "location": "Back",
+        "distances": {
+          "red_tees": 520,
+          "blue_tees": 560,
+          "black_tees": 600
+        }
+      },
+      {
+        "hole_number": 13,
+        "par": 4,
+        "location": "Back",
+        "distances": {
+          "red_tees": 400,
+          "blue_tees": 440,
+          "black_tees": 480
+        }
+      },
+      {
+        "hole_number": 14,
+        "par": 3,
+        "location": "Back",
+        "distances": {
+          "red_tees": 180,
+          "blue_tees": 210,
+          "black_tees": 240
+        }
+      },
+      {
+        "hole_number": 15,
+        "par": 4,
+        "location": "Back",
+        "distances": {
+          "red_tees": 360,
+          "blue_tees": 400,
+          "black_tees": 440
+        }
+      },
+      {
+        "hole_number": 16,
+        "par": 5,
+        "location": "Back",
+        "distances": {
+          "red_tees": 480,
+          "blue_tees": 520,
+          "black_tees": 560
+        }
+      },
+      {
+        "hole_number": 17,
+        "par": 4,
+        "location": "Back",
+        "distances": {
+          "red_tees": 320,
+          "blue_tees": 360,
+          "black_tees": 400
+        }
+      },
+      {
+        "hole_number": 18,
+        "par": 4,
+        "location": "Back",
+        "distances": {
+          "red_tees": 380,
+          "blue_tees": 420,
+          "black_tees": 460
+        }
+      }
+]
