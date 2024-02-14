@@ -1,0 +1,19 @@
+Fishel Country Club ⛳
+	Hole 1: Par 4
+	Hole 2: Par 3
+	Hole 3: Par 5
+	Hole 4: Par 4
+	Hole 5: Par 3
+	Hole 6: Par 4
+	Hole 7: Par 5
+	Hole 8: Par 3
+	Hole 9: Par 4
+	Hole 10: Par 4
+	Hole 11: Par 3
+	Hole 12: Par 5
+	Hole 13: Par 4
+	Hole 14: Par 3
+	Hole 15: Par 4
+	Hole 16: Par 5
+	Hole 17: Par 4
+	Hole 18: Par 4
